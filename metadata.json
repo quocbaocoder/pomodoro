@@ -1,0 +1,8 @@
+{
+  "name": "FocusFlow - Pomodoro & Study AI",
+  "description": "An all-in-one study management application featuring a customizable Pomodoro timer, homework tracker, study statistics, and an integrated AI assistant to boost your productivity. Stay organized, track your progress, and get instant help when you're stuck.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
